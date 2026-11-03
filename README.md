@@ -1,3 +1,7 @@
+> **이 저장소는 [pygaki](https://github.com/halftomatodev/pygaki)로 옮겼어요.** 더 이상 고치지 않아요.
+> showpy는 이제 [pygaki/showpy](https://github.com/halftomatodev/pygaki/tree/main/showpy)에 있어요. 최신 버전(4.13 이후)은 그쪽에서 받으세요.
+> 대본 에디터 PyKaki도 같은 저장소에 있고, 웹 버전은 **https://halftomatodev.github.io/pygaki/** 에서 열어요.
+
 # showpy
 
 **렌파이(Ren'Py) 게임을 실행한 채, 코드 없이 마우스로 고치는 플러그인 묶음이에요.**
